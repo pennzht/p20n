@@ -1,9 +1,19 @@
 P20N: Programmer Abbreviation
 
 usage:
-    python p20n.py word_1 [word_2 [... word_n]]
 
-example:
-    python p20n.py internationalization globalization localization personalization multilingualization
-    python p20n.py programmer_abbreviation
+> python p20n.py word_1 [word_2 [... word_n]]
+
+examples:
+
+> python p20n.py internationalization globalization localization personalization multilingualization
+internationalization    i18n
+globalization           g11n
+localization            l10n
+personalization         p13n
+multilingualization     m17n
+
+> python p20n.py programmer_abbreviation
+programmer_abbreviation    p20n
+
 
